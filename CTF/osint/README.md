@@ -2,7 +2,7 @@
 
 |Purpose|Resource Link|
 | ------ |------|
-|To Find the online presence of a username|[osintframework.com](https://osintframework.com)|
+|To Find the online presence of a username|[whatsmyname](https://whatsmyname.app/)|
 |Image Search|[Yandex](https://yandex.com/images), [Keyword Tool](https://keywordtool.io/image-search)|
 |IP Address Lookup|[Ripe](https://www.ripe.net/)|
 |Historical Whois|[Whoxy](https://www.whoxy.com/whois-history/)|
